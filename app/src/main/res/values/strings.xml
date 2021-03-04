@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homeWorkFour</string>
+    <string name="text_settings">Настройки</string>
+    <string name="text_group">Моя группа</string>
+</resources>
